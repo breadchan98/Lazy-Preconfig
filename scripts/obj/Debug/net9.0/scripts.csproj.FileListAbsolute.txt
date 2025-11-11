@@ -1,0 +1,15 @@
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\bin\Debug\net9.0\scripts.exe
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\bin\Debug\net9.0\scripts.deps.json
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\bin\Debug\net9.0\scripts.runtimeconfig.json
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\bin\Debug\net9.0\scripts.dll
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\bin\Debug\net9.0\scripts.pdb
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.AssemblyInfoInputs.cache
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.AssemblyInfo.cs
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.csproj.CoreCompileInputs.cache
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.sourcelink.json
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.dll
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\refint\scripts.dll
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.pdb
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\scripts.genruntimeconfig.cache
+C:\Users\bred-pc\Desktop\Lazy\Lazy-Preconfig\scripts\obj\Debug\net9.0\ref\scripts.dll
